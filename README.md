@@ -1,0 +1,2 @@
+# Algdat
+algoritmer og datateknologi
