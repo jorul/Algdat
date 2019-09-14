@@ -1,6 +1,9 @@
-print("atom er kjedelig.")
+println("atom er kjedelig.")
 
 a = 5
 b = 3
 c = a + b
-print(c)
+println(c)
+
+Base.sort!(A)
+#while er raskere en for
