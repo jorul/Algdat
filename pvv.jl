@@ -5,5 +5,5 @@ b = 3
 c = a + b
 println(c)
 
-Base.sort!(A)
+#Base.sort!(A)
 #while er raskere en for
